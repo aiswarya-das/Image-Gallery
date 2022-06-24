@@ -1,2 +1,2 @@
 # Image-Gallery
-A simple image gallery created using CSS and JS.
+A simple image gallery created using HTML, CSS and JS.
